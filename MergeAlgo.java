@@ -1,13 +1,13 @@
 public class MergeAlgo {
     public void sort(int[] arr) {
 //        mergeSort(arr,new int[arr.length],0,arr.length-1);
-        while(mList.size() > 1){
-            for (int i = 0;i < mList.size()-1;i++){
-                mergeArr(arr,mList.get(i),mList.get(i+1));
-                setPointY(mList.get(i),getPointY(mList.get(i+1)));
-                mList.remove(mList.get(i+1));
-            }
-        }
+//        while(mList.size() > 1){
+//            for (int i = 0;i < mList.size()-1;i++){
+//                mergeArr(arr,mList.get(i),mList.get(i+1));
+//                setPointY(mList.get(i),getPointY(mList.get(i+1)));
+//                mList.remove(mList.get(i+1));
+//            }
+//        }
     }
 
     private void mergeSort(int[] arr,int[] sortedArr, int leftStart, int rightEnd) {

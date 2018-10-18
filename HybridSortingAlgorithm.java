@@ -34,7 +34,7 @@ public class HybridSortingAlgorithm {
 //        System.out.println("R: "+runList.size()+" UR: "+unsortedList.size()+" total: "+mList.size());
 //        System.out.println(unsortedList);
 //        printArr(arr);
-        otherArr = Arrays.copyOf(arr,arr.length);
+//        System.arraycopy(arr,0,otherArr,0,arr.length-1);
         myMerge(arr);
 //        printArr(arr);
 //        System.out.println(" "+isSorted(arr));

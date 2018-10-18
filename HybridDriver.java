@@ -109,37 +109,18 @@ public class HybridDriver {
      */
     public void printSortingTiming() {
         HybridSortingAlgorithm hybridSort = new HybridSortingAlgorithm();
+//        MergeAlgo mergeSort = new MergeAlgo();
         System.out.println("----------------------------------------------------");
-        // System.out.println("algorithm: " + algo);
-//        System.out.print(algo + "\t");
-        // For each algorithm:
-        // a) Copy the array
         int [] copy = copyArray();
-        // b) Have the algorithm sort the copy ... while timing it.
         long start = System.currentTimeMillis();
         hybridSort.sortMe(copy,otherArr);
-//        MergeAlgo mergeSort = new MergeAlgo();
 //        mergeSort.sort(otherArr);
-//        hybridSort.merge();
-        // System.out.println("Sorting took: " + (System.currentTimeMillis() - start) + " ms.");
         long total_time = System.currentTimeMillis() - start;
         System.out.print(total_time + " ms.\t");
         if (total_time < 1000) {
             System.out.print("\t");
         }
-        // c) Check for correctness
         printStatus(copy);
-//        // Objective:
-//        // 1) Feed "algorithms" variable to the factory in order to get a sorting algorithm:
-//        for (String algo : algorithms) {
-//            try {
-////                SortingAlgorithm sort = factory.getSortingAlgorithm(algo);
-//                // System.out.println("----------------------------------------------------");
-//            }
-//            catch (Exception e) {
-//                System.out.println("Unable to instantiate sorting algorithm " + algo);
-//            }
-//        }
     }
 
 

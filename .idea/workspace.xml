@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="10956d7b-3c45-4122-ac45-875693e6ec57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HybridDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/HybridDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HybridSortingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/HybridSortingAlgorithm.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,38 +23,38 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="5" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="286" />
-          <entry key="md" value="20" />
-          <entry key="txt" value="28" />
+          <entry key="java" value="366" />
+          <entry key="md" value="40" />
+          <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="286" />
-          <entry key="PLAIN_TEXT" value="48" />
+          <entry key="JAVA" value="366" />
+          <entry key="PLAIN_TEXT" value="88" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HybridDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="119" column="41" selection-start-line="119" selection-start-column="41" selection-end-line="119" selection-end-column="41" />
+            <state relative-caret-position="98">
+              <caret line="112" column="48" selection-start-line="112" selection-start-column="48" selection-end-line="112" selection-end-column="48" />
               <folding>
                 <element signature="e#991#992#0" expanded="true" />
                 <element signature="e#1032#1033#0" expanded="true" />
@@ -65,17 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MergeAlgo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="306">
               <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -83,22 +75,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HybridSortingAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-201">
-              <caret line="134" column="8" lean-forward="true" selection-start-line="134" selection-start-column="8" selection-end-line="140" selection-end-column="9" />
+            <state relative-caret-position="309">
+              <caret line="140" column="9" lean-forward="true" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#575#582#0" expanded="true" />
-                <element signature="e#643#650#0" expanded="true" />
-                <element signature="e#704#711#0" expanded="true" />
                 <element signature="method#mergeListsMaker#0;class#HybridSortingAlgorithm#0" />
-                <element signature="e#2013#2020#0" expanded="true" />
-                <element signature="e#2536#2605#0" />
                 <element signature="method#sortUnsortedList#0;class#HybridSortingAlgorithm#0" />
-                <element signature="e#7597#7655#0" />
                 <element signature="method#bbSort#0;class#HybridSortingAlgorithm#0" />
                 <element signature="method#swap#0;class#HybridSortingAlgorithm#0" />
-                <element signature="e#8576#8583#0" expanded="true" />
-                <element signature="e#9268#9315#0" />
                 <element signature="method#findUnsortedRuns#0;class#HybridSortingAlgorithm#0" />
                 <element signature="method#printArr#0;class#HybridSortingAlgorithm#0" />
               </folding>
@@ -122,9 +106,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/MergeAlgo.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/HybridSortingAlgorithm.java" />
         <option value="$PROJECT_DIR$/HybridDriver.java" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -154,7 +138,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539841743102" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539842272611" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../grading/project2/test" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -202,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539841665077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="submitting google sheet">
+      <created>1539841803099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539841803099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -214,7 +205,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24948454" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24948454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -222,7 +213,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32977462" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977462" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,38 +233,27 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="submitting current work done" />
-    <option name="LAST_COMMIT_MESSAGE" value="submitting current work done" />
+    <MESSAGE value="submitting google sheet" />
+    <option name="LAST_COMMIT_MESSAGE" value="submitting google sheet" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HybridDriver.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="119" column="41" selection-start-line="119" selection-start-column="41" selection-end-line="119" selection-end-column="41" />
-          <folding>
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HybridSortingAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="134" column="8" lean-forward="true" selection-start-line="134" selection-start-column="8" selection-end-line="140" selection-end-column="9" />
+        <state relative-caret-position="309">
+          <caret line="140" column="9" lean-forward="true" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#575#582#0" expanded="true" />
-            <element signature="e#643#650#0" expanded="true" />
-            <element signature="e#704#711#0" expanded="true" />
             <element signature="method#mergeListsMaker#0;class#HybridSortingAlgorithm#0" />
-            <element signature="e#2013#2020#0" expanded="true" />
-            <element signature="e#2536#2605#0" />
             <element signature="method#sortUnsortedList#0;class#HybridSortingAlgorithm#0" />
-            <element signature="e#7597#7655#0" />
             <element signature="method#bbSort#0;class#HybridSortingAlgorithm#0" />
             <element signature="method#swap#0;class#HybridSortingAlgorithm#0" />
-            <element signature="e#8576#8583#0" expanded="true" />
-            <element signature="e#9268#9315#0" />
             <element signature="method#findUnsortedRuns#0;class#HybridSortingAlgorithm#0" />
             <element signature="method#printArr#0;class#HybridSortingAlgorithm#0" />
           </folding>
@@ -282,15 +262,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MergeAlgo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="306">
           <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/HybridDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="98">
+          <caret line="112" column="48" selection-start-line="112" selection-start-column="48" selection-end-line="112" selection-end-column="48" />
+          <folding>
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
